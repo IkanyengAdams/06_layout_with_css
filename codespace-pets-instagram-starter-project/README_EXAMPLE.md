@@ -11,7 +11,7 @@ In this project, I recreated a simplified version of an Instagram profile page f
 
 #### Areas of Mastery
 
-- **CSS Layout Techniques**: I feel confident in using Flexbox and Grid to structure web page elements. Implementing these techniques to align and distribute content was a highlight of my learning.
+- **CSS Layout Techniques**: I feel confident in using Flexbox and Grid to structure web page elements. Implementing these techniques to align and distribute content ,was a highlight of my learning.
 - **Responsive Design**: I successfully implemented media queries to ensure the page looks good on both desktop and mobile screens.
 - **Styling Elements**: I was able to style the profile image, user information, and gallery section effectively, closely resembling an Instagram profile.
 
