@@ -1,6 +1,6 @@
 
 # Learning Reflections README 
-
+I learnt a lot about how CSS works, things like CSS animation and layout, I am very happy that I have explored whats the purpose of CSS on the web and how it works.
 ## **6.15 CodeSpace Pets Instagram Profile Project**
 
 ### Overview
